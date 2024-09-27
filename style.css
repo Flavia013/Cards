@@ -33,3 +33,15 @@ body {
     transition: transform 300ms ease-in-out;
 }
 
+.cartao__conteudo h3 {
+    color: var(--text-color);
+    border: 1px
+}
+
+.cartao__conteudo p {
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-top: 4rem;
+    font-size: 1.4vw;
+}
+
